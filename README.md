@@ -28,9 +28,8 @@ while presenting currencySelectVC you have to set delegate as self to get delega
 ```
 you have to confirm CurrencyDelegate in ViewController where you want the selected country info.
 
-```
--(void) country:(CurrencySelectVC *)country didChangeValue:(id)value; method will return the country details
-```
+`-(void) country:(CurrencySelectVC *)country didChangeValue:(id)value;` method will return the country details
+
 
 
 #pragma mark - CurrencyDelegate Method
