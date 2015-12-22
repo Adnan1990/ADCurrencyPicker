@@ -5,12 +5,11 @@ ADCurrencyPicker is designed for choosing currency code,currency symbol, country
 ![alt tag](https://raw.githubusercontent.com/Adnan1990/IOSControls/master/screen1.png)
 
 
+![alt tag](https://raw.githubusercontent.com/Adnan1990/IOSControls/master/screen2.png)
 
-constant.h 
-#define COUNTRY_NAME @"name"
-#define COUNTRY_CODE @"countryCode"
-#define CURRENCY_CODE @"currencyCode"
-#define CURRENCY_SYMBOL @"currencytSymbol"
+
+![alt tag](https://raw.githubusercontent.com/Adnan1990/IOSControls/master/screen0.png)
+
 
 Usage
 
