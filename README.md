@@ -3,12 +3,12 @@
 ADCurrencyPicker is designed for choosing currency code,currency symbol, country code and country ,name from list of 106 countries.
 
 constant.h 
-The macros user in demo are defined in contant.h
-#define  COUNTRY_NAME @"name"
-#define  COUNTRY_CODE @"countryCode"
-#define  CURRENCY_CODE @"currencyCode"
-#define  CURRENCY_SYMBOL @"currencytSymbol"
 
+The macros user in demo are defined in contant.h
+#define COUNTRY_NAME @"name"
+#define COUNTRY_CODE @"countryCode"
+#define CURRENCY_CODE @"currencyCode"
+#define CURRENCY_SYMBOL @"currencytSymbol"
 
 Usage
 
