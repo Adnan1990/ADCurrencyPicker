@@ -2,6 +2,12 @@
 
 ADCurrencyPicker is designed for choosing currency code,currency symbol, country code and country ,name from list of 106 countries.
 
+![alt tag](http://https://github.com/Adnan1990/IOSControls/blob/master/screen1.png)
+![alt tag](http://https://github.com/Adnan1990/IOSControls/blob/master/screen2.png)
+![alt tag](http://https://github.com/Adnan1990/IOSControls/blob/master/screen0.png)
+
+
+
 constant.h 
 #define COUNTRY_NAME @"name"
 #define COUNTRY_CODE @"countryCode"
@@ -31,4 +37,5 @@ you have to confirm CurrencyDelegate in ViewController where you want the select
     NSDictionary *countryDict = value;
     self.currencyDetailLabel.text=[NSString stringWithFormat:@"Country Name:%@ CountryCode:%@ CurrencyCode:%@ CurrencySymbol:%@",[countryDict objectForKey:COUNTRY_NAME],[countryDict objectForKey:COUNTRY_CODE],[countryDict objectForKey:CURRENCY_CODE],[countryDict objectForKey:CURRENCY_SYMBOL]];
 }
-https://github.com/Adnan1990/IOSControls/raw/master/screen0.png
+
+
