@@ -31,4 +31,4 @@ you have to confirm CurrencyDelegate in ViewController where you want the select
     NSDictionary *countryDict = value;
     self.currencyDetailLabel.text=[NSString stringWithFormat:@"Country Name:%@ CountryCode:%@ CurrencyCode:%@ CurrencySymbol:%@",[countryDict objectForKey:COUNTRY_NAME],[countryDict objectForKey:COUNTRY_CODE],[countryDict objectForKey:CURRENCY_CODE],[countryDict objectForKey:CURRENCY_SYMBOL]];
 }
-
+https://github.com/Adnan1990/IOSControls/raw/master/screen0.png
