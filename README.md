@@ -11,9 +11,9 @@ ADCurrencyPicker is designed for choosing currency code,currency symbol, country
 ![alt tag](https://raw.githubusercontent.com/Adnan1990/IOSControls/master/screen0.png)
 
 
-Usage
+# Usage
 
-###import "CurrencySelectVC.h"
+##### #import "CurrencySelectVC.h"
 while presenting currencySelectVC you have to set delegate as self to get delegate method values against selected country.
 
 
