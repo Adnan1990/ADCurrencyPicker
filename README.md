@@ -2,15 +2,7 @@
 
 ADCurrencyPicker is designed for choosing currency code,currency symbol, country code and country ,name from list of 106 countries.
 
-![alt tag](https://raw.github.com/Adnan1990/IOSControls/blob/master/screen1.png)
-
-
-![alt tag](https://raw.github.com/Adnan1990/IOSControls/blob/master/screen2.png)
-
-
-
-
-![alt tag](https://raw.github.com/Adnan1990/IOSControls/blob/master/screen0.png)
+![alt tag](https://raw.githubusercontent.com/Adnan1990/IOSControls/master/screen1.png)
 
 
 
