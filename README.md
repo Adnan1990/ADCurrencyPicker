@@ -17,7 +17,7 @@ Usage
 while presenting currencySelectVC you have to set delegate as self to get delegate method values against selected country.
 
 
-#pragma mark - IBAction
+## #pragma mark - IBAction
 ```
 - (IBAction)currencyBtnPressed:(id)sender {
     CurrencySelectVC *currencySelectVC = [[UIStoryboard storyboardWithName:@"Main" bundle:nil] instantiateViewControllerWithIdentifier:@"CurrencySelectVC"];
@@ -32,7 +32,7 @@ you have to confirm CurrencyDelegate in ViewController where you want the select
 
 
 
-#pragma mark - CurrencyDelegate Method
+## #pragma mark - CurrencyDelegate Method
 ```
 -(void) country:(CurrencySelectVC *)country didChangeValue:(id)value{
       [country setDelegate:nil];
